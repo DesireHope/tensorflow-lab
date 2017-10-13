@@ -1,0 +1,6 @@
+model_checkpoint_path: "/Users/user/PycharmProjects/tensorflow-second/chapter5/5-5/model/model.ckpt-15001"
+all_model_checkpoint_paths: "/Users/user/PycharmProjects/tensorflow-second/chapter5/5-5/model/model.ckpt-11001"
+all_model_checkpoint_paths: "/Users/user/PycharmProjects/tensorflow-second/chapter5/5-5/model/model.ckpt-12001"
+all_model_checkpoint_paths: "/Users/user/PycharmProjects/tensorflow-second/chapter5/5-5/model/model.ckpt-13001"
+all_model_checkpoint_paths: "/Users/user/PycharmProjects/tensorflow-second/chapter5/5-5/model/model.ckpt-14001"
+all_model_checkpoint_paths: "/Users/user/PycharmProjects/tensorflow-second/chapter5/5-5/model/model.ckpt-15001"
